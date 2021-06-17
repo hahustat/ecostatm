@@ -1,4 +1,4 @@
-# econstatmodule
+# econstatm
 
 
 
@@ -38,10 +38,10 @@ This package contains 15 datasets of Econometrics_stat3061 module for statistics
 
 ```R
 # Install the released version from CRAN
-install.packages("ecostatmodule")
+install.packages("ecostatm")
 
 # Install the development version from GitHub
-devtools::install_github("hahustat/ecostatmodule")
+devtools::install_github("hahustat/ecostatm")
 ```
 
 -----
