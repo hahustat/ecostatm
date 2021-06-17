@@ -2,7 +2,7 @@
 
 
 
-This package contains 15 datasets of Econometrics_stat3061 module:
+This package contains 15 datasets of Econometrics_stat3061 module for statistics students pf Mekelle University:
 
 * `auto`
 
