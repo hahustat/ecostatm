@@ -44,7 +44,7 @@ The course module is avaialble [here](https://github.com/hahustat/Econometrics-M
 devtools::install_github("hahustat/ecostatmodule")
 
 # you will install the released version from CRAN
-install.packages("ecostatm")
+install.packages("ecostatmodule")
 ```
 
 -----
